@@ -1,1 +1,1 @@
-# loopstudios
+# simple-tailwind-starter
